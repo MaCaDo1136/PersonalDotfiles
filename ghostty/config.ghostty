@@ -1,0 +1,30 @@
+# --- Configuración de Mario ---
+theme = "Catppuccin Mocha"
+font-family = "JetBrainsMono Nerd Font"
+font-size = 12
+adjust-cell-height = 9%
+
+# Ventana y Estética
+window-height = 30
+window-width = 110
+window-padding-x = 15
+window-padding-y = 10
+background-opacity = 0.9
+background-blur-radius = 20
+macos-titlebar-style = tabs
+
+# Cursor
+cursor-style = block
+cursor-style-blink = true
+cursor-opacity = 0.8
+cursor-invert-fg-bg = true
+
+# Mouse y Teclado
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 0.5
+copy-on-select = clipboard
+confirm-close-surface = false
+
+# Integración
+shell-integration = zsh
+shell-integration-features = no-cursor
